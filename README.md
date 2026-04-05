@@ -16,12 +16,7 @@ Proyecto fullstack con Spring Boot y React.
 
 ## Base de datos
 
-Crear la base de datos en MySQL:
-```sql
-CREATE DATABASE busdb;
-```
-
-Ajustar usuario y contraseña en `backendCiva/src/main/resources/application.properties`:
+Solo ajusta usuario y contraseña en `backendCiva/src/main/resources/application.properties`:
 
 ---
 
